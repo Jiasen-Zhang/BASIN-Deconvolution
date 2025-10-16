@@ -10,4 +10,4 @@ Code for BASIN: Bayesian mAtrix variate normal model with Spatial and sparsIty p
 
 ### Parameters
 
-# How to cite
+### How to cite
